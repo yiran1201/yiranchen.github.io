@@ -1,0 +1,99 @@
+.hr11{
+border:2px solid black;
+margin: 20px 20px 20px 20px
+}
+
+.hr22{
+border: 1px solid gray;
+margin-left:100px;
+margin-right:100px;
+}
+
+
+
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 25px;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 100px;
+    margin-bottom: 20px;
+    margin-top: 25px;
+}
+
+
+p{
+ float: inline-start;
+ font-family: Arial, Helvetica, sans-serif;
+ font-size:17px;
+ margin-left: 100px;
+ margin-top: 0px;
+}
+
+span{
+    font-style: italic;
+    font-weight: bold;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+}
+
+
+ul{
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-left: 80px;
+}
+
+img{
+    float:bottom;
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-bottom: 100px;
+    padding: 5px;
+    border: solid 1px black;
+}
+
+
+a.link2{
+    color: black;
+    
+    font-style: italic;
+    font-weight: bold;
+}
+
+h4{
+    text-align: center;
+    
+}
+
+body{
+    background-color:#F5F5F5 ;
+    border:solid 100px white
+}
+
+a:link{
+    text-decoration:underline;
+    font-weight:bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+}
+
+a.link2{
+    text-decoration: none;
+}
+
+a.link1{
+    color:black;
+}
+
+a:hover{
+    font-style: italic;
+   
+}
